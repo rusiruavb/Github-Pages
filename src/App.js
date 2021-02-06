@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h3>
-          Welcome to React 1
+          Welcome to React 12
         </h3>
       </header>
     </div>
